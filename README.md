@@ -9,5 +9,4 @@ Notebooks associated with the publication:
 
 These notebooks implement the numerical examples corresponding to our paper.
 
-
-![Alt Text](https://github.com/quark-strange/machine_learning_LDP/blob/main/results/ABPs_80_lambda-0.03.gif)
+<img src="https://github.com/quark-strange/machine_learning_LDP/blob/main/results/ABPs_80_lambda-0.03.gif" width="50%" height="50%"/>
