@@ -1,7 +1,7 @@
 # machine_learning_LDP
 Notebooks associated with the publication:
 
-[ArXiv:2107.03348](https://arxiv.org/abs/2107.03348)
+[arXiv:2107.03348](https://arxiv.org/abs/2107.03348)
 
 ### Learning Nonequilibrium Control Forces to Characterize Dynamical Phase Transitions
 
